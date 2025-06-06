@@ -75,38 +75,8 @@ Caching significantly reduces processing time, improving **query speed by ~50%**
 
 ---
 
-## 🎯 **Next Steps**
-🔹 Apply **ML models** to predict housing prices  
-🔹 Automate **data ingestion** from AWS  
-🔹 Enhance **visualization using Matplotlib or Seaborn**  
-
----
-
-## 🤝 **Contributing**
-Pull requests are welcome!  
-Feel free to **fork the repository**, create a branch, and submit changes.
-
----
-
 ## 📄 **License**
 MIT License. Free to use and modify.
 
 ---
-
-## 👨‍💻 **Author**
-**Your Name**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
-```
-
----
-
-### ✅ **What This README Provides**
-📌 **Project Overview**  
-📂 **Dataset Details**  
-🚀 **Installation & Setup Guide**  
-🔍 **Key Queries & Results**  
-📊 **Performance Optimization**  
-🤝 **Contribution & Licensing Info**  
-
-This README will make your GitHub project **look professional & well-documented**! Let me know if you need any tweaks. 🚀✨
 
