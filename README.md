@@ -2,6 +2,7 @@
 
 ![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-orange?logo=apachespark)
 ![Python](https://img.shields.io/badge/Python-Data%20Processing-blue?logo=python)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-blue?logo=googlecolab&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-S3%20Data-green?logo=amazonaws)
 
 ## 📌 Project Overview
@@ -32,9 +33,9 @@ pip install pyspark findspark
 ```
 
 ### 2️⃣ Run the Script
-Ensure PySpark is installed, then execute:
+Ensure to run the file on Google Colab:
 ```bash
-python main.py
+Home_Sales_main_code_colab.ipynb
 ```
 
 ---
